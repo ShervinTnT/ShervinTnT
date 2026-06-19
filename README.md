@@ -1,21 +1,21 @@
-<!-- PROFILE README for shervin0tnt -->
+<!-- PROFILE README for ShervinTnT -->
 
 <div align="center">
 
-<a href="https://github.com/shervin0tnt">
+<a href="https://github.com/ShervinTnT">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Shervin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20•%20Tinkerer%20•%20Shipping%20pixels%20and%20packets&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/shervin0tnt">
+<a href="https://github.com/ShervinTnT">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=560&lines=Full-stack+%26+real-time+systems;WebRTC+%2B+Tauri+%2B+TypeScript;I+turn+caffeine+into+commits+%E2%98%95;Always+building+something+shiny+%E2%9C%A8" alt="typing"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shervin0tnt&label=Profile+views&color=8E2DE2&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/shervin0tnt?label=Followers&style=flat-square&color=4A00E0" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=ShervinTnT&label=Profile+views&color=8E2DE2&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/ShervinTnT?label=Followers&style=flat-square&color=4A00E0" alt="followers"/>
 
 </div>
 
@@ -59,11 +59,11 @@ const shervin = {
 
 <div align="center">
 
-<a href="https://github.com/shervin0tnt/liquid-glass-showcase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shervin0tnt&repo=liquid-glass-showcase&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="liquid-glass-showcase"/>
+<a href="https://github.com/ShervinTnT/liquid-glass-showcase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShervinTnT&repo=liquid-glass-showcase&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="liquid-glass-showcase"/>
 </a>
-<a href="https://github.com/shervin0tnt/one-mta-showcase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shervin0tnt&repo=one-mta-showcase&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="one-mta-showcase"/>
+<a href="https://github.com/ShervinTnT/one-mta-showcase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShervinTnT&repo=one-mta-showcase&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="one-mta-showcase"/>
 </a>
 
 </div>
@@ -74,12 +74,12 @@ const shervin = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shervin0tnt&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9" alt="stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shervin0tnt&hide_border=true&theme=react&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShervinTnT&show_icons=true&hide_border=true&theme=react&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9" alt="stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShervinTnT&hide_border=true&theme=react&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" alt="streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shervin0tnt&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShervinTnT&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9&langs_count=8" alt="top langs"/>
 
 </div>
 
@@ -88,7 +88,7 @@ const shervin = {
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shervin0tnt&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShervinTnT&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ const shervin = {
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shervin0tnt&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" alt="activity graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShervinTnT&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" alt="activity graph" width="95%"/>
 </div>
 
 ---
@@ -108,7 +108,7 @@ const shervin = {
 <a href="mailto:shervin0010@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/shervin0tnt">
+<a href="https://github.com/ShervinTnT">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
