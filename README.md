@@ -55,21 +55,6 @@ const shervin = {
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ShervinTnT/liquid-glass-showcase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShervinTnT&repo=liquid-glass-showcase&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="liquid-glass-showcase"/>
-</a>
-<a href="https://github.com/ShervinTnT/one-mta-showcase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShervinTnT&repo=one-mta-showcase&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" alt="one-mta-showcase"/>
-</a>
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
